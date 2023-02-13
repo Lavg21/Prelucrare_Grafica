@@ -1,0 +1,4 @@
+D:\Facultate\UTCN\An III\Semestrul I\Prelucrare grafica\Lab10\x64\Debug\Lab10.exe
+D:\Facultate\UTCN\An III\Semestrul I\Prelucrare grafica\Lab10\x64\Debug\Lab10.pdb
+D:\Facultate\UTCN\An III\Semestrul I\Prelucrare grafica\Project_Final\Lab10\x64\Debug\Lab10.exe
+D:\Facultate\UTCN\An III\Semestrul I\Prelucrare grafica\Project_Final\Lab10\x64\Debug\Lab10.pdb

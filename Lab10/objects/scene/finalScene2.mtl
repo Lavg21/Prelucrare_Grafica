@@ -1,0 +1,415 @@
+# Blender 3.3.1 MTL File: 'finalScene3.blend'
+# www.blender.org
+
+newmtl (null)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Objects/dragon/texture.png
+
+newmtl 01___12301_Flower
+Ns 15.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.135000 0.135000 0.135000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/flower2/12301_Flower_diff.jpg
+
+newmtl 02___12301_Flower_pot
+Ns 4.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/flower2/12301_Flower_pot_diff.jpg
+
+newmtl 02___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Objects/Horse/Texture/map.jpg
+
+newmtl 10437_Camelia_Plant_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Objects/camelia_plant/10437_Camelia_Plant_v1_Diffuse.jpg
+
+newmtl 12268_banjofrog_
+Ns 56.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/frog/12268_banjofrog_diffuse.jpg
+
+newmtl 12949_Stone_Chess_Night_Side_B.001
+Ns 36.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/knight/12949_Stone_Chess_Night_Side_B_diff.jpg
+map_Ks Objects/knight/12949_Stone_Chess_Night_Side_B_spec.jpg
+
+newmtl 12974_crocus_flower
+Ns 35.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.135000 0.135000 0.135000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/flower/12974_crocus_flower_diff.jpg
+
+newmtl 12974_crocus_flower.001
+Ns 35.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.135000 0.135000 0.135000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Facultate/UTCN/An III/Semestrul I/Prelucrare grafica/ProjectScene/scene/Objects/flower/12974_crocus_flower_diff.jpg
+
+newmtl Cat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Objects/Cat/Cat_diffuse.jpg
+map_Bump Objects/Cat/Cat_bump.jpg
+
+newmtl Default
+Ns 256.000031
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/fl1.jpg
+
+newmtl EYES
+Ns 324.000031
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Iron
+Ns 256.000031
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/fl1.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/cobblestones/Textures/BrickRound0105_5_S.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grass/grass3.jpeg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grass/water.jpg
+
+newmtl Material.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/Tree1/Branches0018_1_S.png
+
+newmtl Material.005
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/Tree1/Branches0018_1_S.png
+
+newmtl Material.007
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Objects/Tree1/Branches0018_1_S.png
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skydome/night.jpg
+
+newmtl Material.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Objects/rock/tex/For_blender (2).jpg
+
+newmtl Material.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:/Facultate/UTCN/An III/Semestrul I/Prelucrare grafica/ProjectScene/scene/Objects/plant/0ef22002c1fb8a86d4b65d0e5a32f886--texture-seamless-resolutions.jpg
+
+newmtl Material.014
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.020
+Ns 94.117653
+Ka 1.000000 1.000000 1.000000
+Kd 0.275884 0.343381 0.000000
+Ks 0.189320 0.189320 0.189320
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.021
+Ns 29.411768
+Ka 1.000000 1.000000 1.000000
+Kd 0.201901 0.116948 0.078615
+Ks 0.166667 0.166667 0.166667
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.022
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/wood/trunk wood_color.png
+
+newmtl Moon.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/moon/Textures/Diffuse_2K.png
+
+newmtl Old_Big_House
+Ns 76.470573
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Objects/Big_Old_House/textures/Big_Old_House_C.jpg
+map_Ks Objects/Big_Old_House/textures/Big_Old_House_S.jpg
+map_Bump Objects/Big_Old_House/textures/Big_Old_House_N.jpg
+
+newmtl Sting
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Objects/sword/Textures/Sting_Base_Color.png
+
+newmtl Wooden_Post_and_Rail_Fence_1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Objects/fence/Wooden_Post_and_Rail_Fence_diffuse.JPG
+
+newmtl Wooden_Post_and_Rail_Fence_2
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.580400 0.466700 0.321600
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl default
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/fl1.jpg
+
+newmtl default_balcony
+Ns 0.750000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/AHB_gold2.jpg
+
+newmtl default_casttle
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/sd7.jpg
+
+newmtl default_doors
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/door_low_4.jpg
+
+newmtl default_leaves
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/Doc4b2.jpg
+
+newmtl default_roof
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/rf1.jpg
+
+newmtl default_trunks
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Objects/eastern ancient casttle/Maps/c5eedf53.jpg
+
+newmtl material_1
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd Objects/eastern ancient casttle/Maps/grass22.jpg
+map_Bump Objects/eastern ancient casttle/Maps/Terrain 1_mtl1_bumpamt.jpg
+
+newmtl watchtower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Objects/watchTower/textures/Wood_Tower_Col.jpg
+
+newmtl wood
+Ns 256.000031
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Objects/bridge/Texture.JPG
